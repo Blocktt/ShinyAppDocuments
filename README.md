@@ -1,4 +1,4 @@
 # ShinyAppDocuments
-Documents for ContDataQC R Shiny App
+This repository is meant to house documents associated with R Shiny apps developed by Tetra Tech, Inc. Each folder contains documents corresponding to a given app. See below for links to the GitHub repositories where these apps are stored.
 
-https://leppott.github.io/ContDataQC/
+ContDataQC R Shiny App: https://leppott.github.io/ContDataQC/
