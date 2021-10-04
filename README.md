@@ -4,3 +4,7 @@ This repository is meant to house documents associated with R Shiny apps develop
 ContDataQC R Shiny App: https://leppott.github.io/ContDataQC/
 
 IDEMtools R Shiny App: https://github.com/Blocktt/IDEMtools
+
+IEPAtools R Shiny App: https://github.com/Blocktt/IEPAtools
+
+SNEPtools R Shiny App: https://github.com/Blocktt/SNEPtools
