@@ -16131,7 +16131,7 @@ Test_Site16129,4270202,Should be normal match
 Test_Site16130,4270654,Should be normal match
 Test_Site16131,940070049,Should be normal match
 Test_Site16132,4269698,Should be normal match
-Test_Site16133,4270952,Should be normal match
+Test_Site16133,4270952,Should be flagged for missing StreamCat data
 Test_Site16134,4270932,Should be normal match
 Test_Site16135,4265922,Should be normal match
 Test_Site16136,4270758,Should be normal match
@@ -16847,7 +16847,7 @@ Test_Site16845,12897458,Should be normal match
 Test_Site16846,12900952,Should be normal match
 Test_Site16847,12901700,Should be normal match
 Test_Site16848,12897190,Should be normal match
-Test_Site16849,12901342,Should be normal match
+Test_Site16849,12901342,Should be flagged for missing StreamCat data
 Test_Site16850,12900136,Should be normal match
 Test_Site16851,12896870,Should be normal match
 Test_Site16852,12901256,Should be normal match
@@ -16949,7 +16949,7 @@ Test_Site16947,12896986,Should be normal match
 Test_Site16948,12897044,Should be normal match
 Test_Site16949,12899476,Should be normal match
 Test_Site16950,12903674,Should be normal match
-Test_Site16951,12900518,Should be normal match
+Test_Site16951,12900518,Should be flagged for missing StreamCat data
 Test_Site16952,12899810,Should be normal match
 Test_Site16953,12897320,Should be normal match
 Test_Site16954,12901316,Should be normal match
@@ -16958,7 +16958,7 @@ Test_Site16956,12900288,Should be normal match
 Test_Site16957,12900416,Should be normal match
 Test_Site16958,12901538,Should be normal match
 Test_Site16959,12900264,Should be normal match
-Test_Site16960,12900514,Should be normal match
+Test_Site16960,12900514,Should be flagged for missing StreamCat data
 Test_Site16961,12901812,Should be normal match
 Test_Site16962,12903728,Should be normal match
 Test_Site16963,940080093,Should be normal match
@@ -16991,7 +16991,7 @@ Test_Site16989,12900628,Should be normal match
 Test_Site16990,12903392,Should be normal match
 Test_Site16991,12899544,Should be normal match
 Test_Site16992,12895992,Should be normal match
-Test_Site16993,12901158,Should be normal match
+Test_Site16993,12901158,Should be flagged for missing StreamCat data
 Test_Site16994,12897596,Should be normal match
 Test_Site16995,12897308,Should be normal match
 Test_Site16996,12896826,Should be normal match
@@ -17158,7 +17158,7 @@ Test_Site17156,12901364,Should be normal match
 Test_Site17157,12897734,Should be normal match
 Test_Site17158,12896226,Should be normal match
 Test_Site17159,12901292,Should be normal match
-Test_Site17160,12898172,Should be normal match
+Test_Site17160,12898172,Should be flagged for missing StreamCat data
 Test_Site17161,12899498,Should be normal match
 Test_Site17162,12897670,Should be normal match
 Test_Site17163,12899494,Should be normal match
@@ -17190,7 +17190,7 @@ Test_Site17188,12901136,Should be normal match
 Test_Site17189,12901128,Should be normal match
 Test_Site17190,12896962,Should be normal match
 Test_Site17191,12897686,Should be normal match
-Test_Site17192,12896012,Should be normal match
+Test_Site17192,12896012,Should be flagged for missing StreamCat data
 Test_Site17193,12896206,Should be normal match
 Test_Site17194,12899460,Should be normal match
 Test_Site17195,12896906,Should be normal match
@@ -17342,7 +17342,7 @@ Test_Site17340,12901350,Should be normal match
 Test_Site17341,12896554,Should be normal match
 Test_Site17342,12902026,Should be normal match
 Test_Site17343,12899602,Should be normal match
-Test_Site17344,12900512,Should be normal match
+Test_Site17344,12900512,Should be flagged for missing StreamCat data
 Test_Site17345,12890619,Should be normal match
 Test_Site17346,12902142,Should be normal match
 Test_Site17347,12897314,Should be normal match
@@ -17655,7 +17655,7 @@ Test_Site17653,12903754,Should be normal match
 Test_Site17654,12901124,Should be normal match
 Test_Site17655,12896492,Should be normal match
 Test_Site17656,12897366,Should be normal match
-Test_Site17657,12901340,Should be normal match
+Test_Site17657,12901340,Should be flagged for missing StreamCat data
 Test_Site17658,12901094,Should be normal match
 Test_Site17659,12899710,Should be normal match
 Test_Site17660,12901732,Should be normal match
@@ -17791,7 +17791,7 @@ Test_Site17789,12899942,Should be normal match
 Test_Site17790,12899704,Should be normal match
 Test_Site17791,12897386,Should be normal match
 Test_Site17792,12897288,Should be normal match
-Test_Site17793,12896716,Should be normal match
+Test_Site17793,12896716,Should be flagged for missing StreamCat data
 Test_Site17794,12898128,Should be normal match
 Test_Site17795,12899472,Should be normal match
 Test_Site17796,12896538,Should be normal match
@@ -18082,7 +18082,7 @@ Test_Site18080,12900850,Should be normal match
 Test_Site18081,12889959,Should be normal match
 Test_Site18082,12897182,Should be normal match
 Test_Site18083,12900980,Should be normal match
-Test_Site18084,12901152,Should be normal match
+Test_Site18084,12901152,Should be flagged for missing StreamCat data
 Test_Site18085,12889637,Should be normal match
 Test_Site18086,12896772,Should be normal match
 Test_Site18087,12902056,Should be normal match
@@ -18399,7 +18399,7 @@ Test_Site18397,12903492,Should be normal match
 Test_Site18398,12897496,Should be normal match
 Test_Site18399,12897408,Should be normal match
 Test_Site18400,12896758,Should be normal match
-Test_Site18401,12901164,Should be normal match
+Test_Site18401,12901164,Should be flagged for missing StreamCat data
 Test_Site18402,12883006,Should be normal match
 Test_Site18403,12898090,Should be normal match
 Test_Site18404,12889573,Should be normal match
@@ -18530,7 +18530,7 @@ Test_Site18528,12888091,Should be normal match
 Test_Site18529,12890617,Should be normal match
 Test_Site18530,12891185,Should be normal match
 Test_Site18531,12890653,Should be normal match
-Test_Site18532,12889537,Should be normal match
+Test_Site18532,12889537,Should be flagged for missing StreamCat data
 Test_Site18533,12882794,Should be normal match
 Test_Site18534,12882476,Should be normal match
 Test_Site18535,12887939,Should be normal match
